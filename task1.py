@@ -1,0 +1,1 @@
+mushrooms = int(input("Input number "))
